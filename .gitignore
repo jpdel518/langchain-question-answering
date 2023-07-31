@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.env
+sqlite.db
+docs.index
+/gpt4_na.mp3/
+__pycache__/

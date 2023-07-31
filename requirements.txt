@@ -1,0 +1,12 @@
+streamlit
+fastapi
+sqlalchemy
+uvicorn
+openai
+langchain
+numpy
+faiss-cpu
+pytube
+openai-whisper
+ffmpeg-python
+python-dotenv
